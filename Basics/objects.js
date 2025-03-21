@@ -32,7 +32,7 @@ JsUser.greeting = function(){
     console.log("this is me");
     
 }
-console.log(JsUser.greeting());
+console.log(JsUser.greeting);
 
 JsUser.himplease = function(){
     console.log(`Hello this is me,${this.name}`);
