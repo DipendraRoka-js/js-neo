@@ -32,3 +32,21 @@ function logiNN(username){
 }
 
 console.log(logiNN("deep"))
+
+
+
+function multipli(a,b){
+    return a + b
+}
+
+    let gf = 3
+    let hg =9
+
+
+    let keep = multipli(gf, hg)
+
+    console.log(`${keep} is the sum of two number`)
+
+    
+
+
