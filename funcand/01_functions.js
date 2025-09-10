@@ -41,12 +41,16 @@ function multipli(a,b){
 
     let gf = 3
     let hg =9
-
-
     let keep = multipli(gf, hg)
-
     console.log(`${keep} is the sum of two number`)
 
     
 
+    function deep(){
+        let n =5 
+        for(i=0;i< n; i++){
+            console.log("Hi my name is Dipendra ROka")
+        }
+    }
+deep()
 
