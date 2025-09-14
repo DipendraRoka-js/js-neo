@@ -1,13 +1,11 @@
-function star(){
-    for (i = 1; i <= 5 ; i++){
-        let line ="";
-        for(j = 1; j <= i; j++){
-            line +="*";
-           
-        }
-   console.log(line);
-    }
+function deepenr(){
+let a = 30
+
+if(a % 2 == 0 ){
+    console.log("It is even")
+}else{
+    console.log("It is odd")
 }
-star()
+}
 
-
+deepenr()
